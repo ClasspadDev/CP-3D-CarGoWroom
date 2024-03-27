@@ -18,10 +18,11 @@ make
 ```
 Copy everything to the root of calculator:
 ```
-App_sw_3d.bin
-big_endian_pika.pkObj    (from folder ./3D_Converted_Models)
-big_endian_pika.texture  (from folder ./3D_Converted_Models)
-big_endian_cube.pkObj    (from folder ./3D_Converted_Models)
+App_3D_CarGoWroom.bin
+big_endian_my_car.pkObj    (from folder ./3D_Converted_Models)
+big_endian_my_car.texture  (from folder ./3D_Converted_Models)
+big_endian_test2.pkObj    (from folder ./3D_Converted_Models)
+big_map.map                (from folder ./python)
 ```
 
 
