@@ -1,0 +1,7 @@
+global_defs="-DPC"
+
+# Always include headers
+ALWAYS_INCLUDE="-include ./src/GLOBAL_CONSTANTS.hpp"
+
+#This is the target that compiles our executable
+g++ $(find src -type f -iregex ".*\.\(cpp\|c\)") -w -lSDL2 -o pc_out ${global_defs} -g -O2 ${ALWAYS_INCLUDE}
