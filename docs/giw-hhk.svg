@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 201 48" width="201" height="48">
+  <defs>
+    <linearGradient id="a">
+      <stop offset="0" stop-color="#00fc00"/>
+      <stop offset="1" stop-color="#2a60cd"/>
+    </linearGradient>
+    <linearGradient xlink:href="#a" id="c" x1="39" x2="26.88" y1="865.36" y2="872.36" gradientTransform="translate(-876.38 -802.34)" gradientUnits="userSpaceOnUse"/>
+    <pattern id="b" width="20" height="18" patternTransform="translate(-68.57 21.93)" patternUnits="userSpaceOnUse">
+      <path fill="#272727" d="M0 0h20v18H0z"/>
+      <path fill="#222" fill-rule="evenodd" d="M9.99 0 5 3v6l-5 3v6l10-6V0h-.01zm10 0L15 3v6l5-3V0h-.01z"/>
+      <path fill="#1c1c1c" fill-rule="evenodd" d="M0 0v6l5 3V3L.01 0H0zm10 0v12l10 6v-6l-5-3V3l-4.99-3H10z"/>
+    </pattern>
+    <filter id="d" width="1.08" height="1.12" x="-.04" y="-.06" color-interpolation-filters="sRGB">
+      <feGaussianBlur stdDeviation=".27"/>
+    </filter>
+  </defs>
+  <g transform="translate(0 -1004.36)">
+    <path fill="url(#b)" d="M-68.57 21.93h20v18h-20z"/>
+    <rect width="201" height="48" y="1004.36" fill="#02c322" color="#000" enable-background="accumulate" overflow="visible" rx="3" ry="3" style="isolation:auto;mix-blend-mode:normal;solid-color:#000;solid-opacity:1"/>
+    <rect width="199" height="46" x="1" y="1005.36" fill="#0c2f1f" color="#000" enable-background="accumulate" overflow="visible" rx="2" ry="2" style="isolation:auto;mix-blend-mode:normal;solid-color:#000;solid-opacity:1"/>
+    <rect width="22" height="22" x="10" y="1012.36" fill="#a1a1aa" color="#000" enable-background="accumulate" overflow="visible" rx="11" ry="11" style="isolation:auto;mix-blend-mode:normal;solid-color:#000;solid-opacity:1"/>
+    <g transform="translate(-38 179)">
+      <rect width="14" height="30" x="60" y="834.36" color="#000" enable-background="accumulate" overflow="visible" rx="2" ry="2" style="isolation:auto;mix-blend-mode:normal;solid-color:#000;solid-opacity:1"/>
+      <rect width="12" height="28" x="61" y="835.36" fill="#dce4eb" color="#000" enable-background="accumulate" overflow="visible" rx="1" ry="1" style="isolation:auto;mix-blend-mode:normal;solid-color:#000;solid-opacity:1"/>
+      <g color="#000" transform="matrix(-1 0 0 1 70.95 -17.82)">
+        <rect width="10" height="12" x="-1.05" y="868.18" fill="#323232" enable-background="accumulate" overflow="visible" rx="1" ry="1" style="isolation:auto;mix-blend-mode:normal;solid-color:#000;solid-opacity:1"/>
+        <path fill="#575757" fill-opacity=".51" d="M-1.05 874.18v5a1 1 0 0 0 1 1h8a1 1 0 0 0 1-1v-5z" enable-background="accumulate" overflow="visible" style="isolation:auto;mix-blend-mode:normal;solid-color:#000;solid-opacity:1"/>
+      </g>
+      <rect width="17" height="10" x="-853.36" y="62" fill="url(#c)" color="#000" enable-background="accumulate" overflow="visible" rx="0" ry="0" style="isolation:auto;mix-blend-mode:normal;solid-color:#000;solid-opacity:1" transform="rotate(-90)"/>
+      <rect width="4" height="3" x="65.02" y="854.88" fill="#323232" stroke="#575757" stroke-linecap="round" color="#000" enable-background="accumulate" overflow="visible" rx="1.5" ry="1.48" style="isolation:auto;mix-blend-mode:normal;solid-color:#000;solid-opacity:1"/>
+      <rect width="6" height="3" x="64" y="859.36" fill="#d4d4d4" color="#000" enable-background="accumulate" overflow="visible" rx="1" ry="1" style="isolation:auto;mix-blend-mode:normal;solid-color:#000;solid-opacity:1"/>
+      <rect width="3" height="1" x="-862.36" y="65" fill-opacity=".3" color="#000" enable-background="accumulate" overflow="visible" rx="0" ry=".5" style="isolation:auto;mix-blend-mode:normal;solid-color:#000;solid-opacity:1" transform="rotate(-90)"/>
+      <rect width="3" height="1" x="-862.36" y="67" fill-opacity=".3" color="#000" enable-background="accumulate" overflow="visible" ry="0" style="isolation:auto;mix-blend-mode:normal;solid-color:#000;solid-opacity:1" transform="rotate(-90)"/>
+      <path fill-opacity=".3" d="M69 862.36a1 1 0 0 0 1-1v-1a1 1 0 0 0-1-1v3z" color="#000" enable-background="accumulate" overflow="visible" style="isolation:auto;mix-blend-mode:normal;solid-color:#000;solid-opacity:1"/>
+      <path d="M64.97 839.85a2 2 0 0 0-1.97 2.01v.52h-6a2 2 0 0 0-2 1.96v2.09a2 2 0 0 0 2 1.95h6.04v.5a2 2 0 0 0 3.42 1.4l3.5-3.48a2 2 0 0 0 0-2.83l-3.55-3.54a2 2 0 0 0-1.44-.58z" color="#000" enable-background="accumulate" filter="url(#d)" font-family="sans-serif" font-weight="400" opacity=".3" overflow="visible" style="line-height:normal;text-indent:0;text-align:start;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000;text-transform:none;block-progression:tb;white-space:normal;isolation:auto;mix-blend-mode:normal;solid-color:#000;solid-opacity:1"/>
+      <rect width="10.54" height="4" x="56" y="842.38" fill="none" stroke="#0c2f1f" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" color="#000" enable-background="accumulate" overflow="visible" rx="1" ry=".95" style="isolation:auto;mix-blend-mode:normal;solid-color:#000;solid-opacity:1"/>
+      <path fill="#2bfd87" fill-rule="evenodd" stroke="#0c2f1f" stroke-linecap="round" stroke-linejoin="round" stroke-width="4" d="M68.54 844.38 65 840.85l.04 7.03z"/>
+      <rect width="10.54" height="4" x="56" y="842.38" fill="#2bfd87" color="#000" enable-background="accumulate" overflow="visible" rx="1" ry="1" style="isolation:auto;mix-blend-mode:normal;solid-color:#000;solid-opacity:1"/>
+      <path fill="#2bfd87" fill-rule="evenodd" d="M64.98 839.85a1 1 0 0 0-.98 1l.04 7.03a1 1 0 0 0 1.71.7l3.5-3.49a1 1 0 0 0 0-1.41l-3.54-3.54a1 1 0 0 0-.73-.3z" color="#000" enable-background="accumulate" font-family="sans-serif" font-weight="400" overflow="visible" style="line-height:normal;text-indent:0;text-align:start;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000;text-transform:none;block-progression:tb;white-space:normal;isolation:auto;mix-blend-mode:normal;solid-color:#000;solid-opacity:1"/>
+    </g>
+    <rect width="1" height="32" x="48" y="1012.36" fill="#454545" color="#000" enable-background="accumulate" overflow="visible" rx=".5" ry=".5" style="isolation:auto;mix-blend-mode:normal;solid-color:#000;solid-opacity:1"/>
+    <g fill="#a1a1aa" font-family="Gilroy" font-size="12.5" font-weight="600" letter-spacing=".5" style="line-height:125%" word-spacing="0">
+      <path d="M79.39 885.12H75v1.29h2.93c-.26 1.17-1.24 2-2.83 2-1.96 0-3.24-1.36-3.24-3.13 0-1.78 1.3-3.15 3.15-3.15a2.9 2.9 0 0 1 2.58 1.4l1.24-.72a4.39 4.39 0 0 0-3.81-2.08 4.5 4.5 0 0 0-4.6 4.54 4.5 4.5 0 0 0 4.67 4.54c2.56 0 4.29-1.7 4.29-4.09v-.6z" style="-inkscape-font-specification:&quot;Gilroy Semi-Bold&quot;" transform="translate(-9.44 131.5)"/>
+      <path d="M82.16 887.1h4.98c.02-.18.05-.38.05-.57 0-1.8-1.28-3.3-3.14-3.3a3.19 3.19 0 0 0-3.3 3.3c0 1.87 1.34 3.28 3.4 3.28 1.23 0 2.16-.51 2.74-1.36l-1.11-.65c-.3.43-.87.77-1.62.77-1 0-1.78-.5-2-1.47zm0-1.1a1.8 1.8 0 0 1 1.88-1.54c.81 0 1.6.46 1.79 1.54h-3.68z" style="-inkscape-font-specification:&quot;Gilroy Semi-Bold&quot;" transform="translate(-9.44 131.5)"/>
+      <path d="M92.17 884.7v-1.3h-1.55v-1.75l-1.35.4v1.35h-1.15v1.3h1.15v3c0 1.62.82 2.2 2.9 1.95v-1.22c-1.03.05-1.55.07-1.55-.73v-3h1.55z" style="-inkscape-font-specification:&quot;Gilroy Semi-Bold&quot;" transform="translate(-9.44 131.5)"/>
+      <path d="M98.27 882.46c.47 0 .86-.4.86-.86a.86.86 0 0 0-1.73 0c0 .46.4.86.87.86zm-.68 7.19h1.35v-6.25H97.6v6.25z" style="-inkscape-font-specification:&quot;Gilroy Semi-Bold&quot;" transform="translate(-9.44 131.5)"/>
+      <path d="M104.48 884.7v-1.3h-1.55v-1.75l-1.35.4v1.35h-1.15v1.3h1.15v3c0 1.62.83 2.2 2.9 1.95v-1.22c-1.02.05-1.55.07-1.55-.73v-3h1.55z" style="-inkscape-font-specification:&quot;Gilroy Semi-Bold&quot;" transform="translate(-9.44 131.5)"/>
+      <path d="m117.1 883.4-1.22 4.3-1.3-4.3h-1.28l-1.32 4.3-1.21-4.3h-1.42l1.96 6.25h1.32l1.32-4.22 1.3 4.22h1.32l1.96-6.25h-1.42z" style="-inkscape-font-specification:&quot;Gilroy Semi-Bold&quot;" transform="translate(-9.44 131.5)"/>
+      <path d="M120.7 882.46c.48 0 .86-.4.86-.86a.86.86 0 0 0-1.72 0c0 .46.39.86.86.86zm-.67 7.19h1.35v-6.25h-1.35v6.25z" style="-inkscape-font-specification:&quot;Gilroy Semi-Bold&quot;" transform="translate(-9.44 131.5)"/>
+      <path d="M126.92 884.7v-1.3h-1.55v-1.75l-1.35.4v1.35h-1.15v1.3h1.15v3c0 1.62.82 2.2 2.9 1.95v-1.22c-1.03.05-1.55.07-1.55-.73v-3h1.55z" style="-inkscape-font-specification:&quot;Gilroy Semi-Bold&quot;" transform="translate(-9.44 131.5)"/>
+      <path d="M131.93 883.23c-.85 0-1.52.32-1.94.97v-3.3h-1.35v8.75H130v-3.35c0-1.28.7-1.8 1.6-1.8.84 0 1.4.5 1.4 1.45v3.7h1.34v-3.84c0-1.63-1-2.58-2.4-2.58z" style="-inkscape-font-specification:&quot;Gilroy Semi-Bold&quot;" transform="translate(-9.44 131.5)"/>
+    </g>
+    <g fill="#f4f4f5" font-family="Chakra Petch" font-size="22.5" font-weight="700" letter-spacing="0" style="line-height:125%" word-spacing="0">
+      <path d="M71.46 883.07h3.06v6.6h6.66v-6.6h3.06v15.75h-3.06v-6.54h-6.66v6.54h-3.06v-15.75z" style="-inkscape-font-specification:&quot;Chakra Petch Bold&quot;" transform="translate(-9.79 143.09)"/>
+      <path d="M86.81 896.48v-6.52l2.32-2.34h6.44l2.31 2.34v6.52l-2.31 2.34h-6.44l-2.32-2.34zm7.32-.13.78-.79v-4.68l-.78-.79h-3.56l-.79.79v4.68l.8.79h3.55z" style="-inkscape-font-specification:&quot;Chakra Petch Bold&quot;" transform="translate(-9.79 143.09)"/>
+      <path d="M100.51 882.76h2.97v16.06h-2.97v-16.06z" style="-inkscape-font-specification:&quot;Chakra Petch Bold&quot;" transform="translate(-9.79 143.09)"/>
+      <path d="M106.4 882.76h2.97v16.06h-2.97v-16.06z" style="-inkscape-font-specification:&quot;Chakra Petch Bold&quot;" transform="translate(-9.79 143.09)"/>
+      <path d="M122.82 887.62v13.77l-2.43 2.4h-5.9l-2.09-2.06v-1.53h2.97v.67l.43.45h3.28l.77-.79v-3.37l-1.67 1.66h-3.71l-2.4-2.43v-8.77h2.96v7.9l.77.78h1.96l2.09-2.22v-6.46h2.97z" style="-inkscape-font-specification:&quot;Chakra Petch Bold&quot;" transform="translate(-9.79 143.09)"/>
+      <path d="M125.6 883.07h3.06v6.6h6.66v-6.6h3.06v15.75h-3.06v-6.54h-6.66v6.54h-3.06v-15.75z" style="-inkscape-font-specification:&quot;Chakra Petch Bold&quot;" transform="translate(-9.79 143.09)"/>
+      <path d="M140.95 896.48v-6.52l2.32-2.34h6.44l2.31 2.34v6.52l-2.31 2.34h-6.44l-2.32-2.34zm7.32-.13.78-.79v-4.68l-.78-.79h-3.56l-.79.79v4.68l.8.79h3.55z" style="-inkscape-font-specification:&quot;Chakra Petch Bold&quot;" transform="translate(-9.79 143.09)"/>
+      <path d="M154.31 896.53v-6.62l2.28-2.3h6.16l2.32 2.35v2.07h-2.97v-1.1l-.79-.8h-3.24l-.79.8v4.59l.8.78h3.23l.79-.78v-1.1h2.97v2.06l-2.32 2.34h-6.16l-2.28-2.3z" style="-inkscape-font-specification:&quot;Chakra Petch Bold&quot;" transform="translate(-9.79 143.09)"/>
+      <path d="M167.1 882.76h2.98v8.98h1.95l2.86-4.12h3.29l-3.74 5.4 3.96 5.8h-3.28l-3.15-4.56h-1.9v4.56h-2.96v-16.06z" style="-inkscape-font-specification:&quot;Chakra Petch Bold&quot;" transform="translate(-9.79 143.09)"/>
+      <path d="m179.42 895.38 8.1-7.36v-1.6l-.74-.74h-3.65l-.74.75v1.6h-3.06v-2.53l2.43-2.43h6.4l2.42 2.43v3.42l-7.99 7.11v.23h8.08v2.56h-11.25v-3.44z" style="-inkscape-font-specification:&quot;Chakra Petch Bold&quot;" transform="translate(-9.79 143.09)"/>
+    </g>
+  </g>
+</svg>
