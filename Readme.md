@@ -33,14 +33,36 @@ Clear       = Exit
 
 # Modding
 
-To create new binary format models + textures edit and run python script
+## Custom car
+
+You'll need to create simple 3D models in the [Wavefront OBJ format](https://en.wikipedia.org/wiki/Wavefront_.obj_file) with PNG textures and then converted to binary by editing and running the script
 ```
-python/ObjTexConverter.py
+python python/ObjTexConverter.py
 ```
+> ⚠️ Running this may overwrite the pkObj and texture files
+
+You can take a look at "3D_models" folder to get a better understanding at the example cars
+
+## Custom map
+
+To create your own maps, go to `python/MapCreator.py` and edit the `myMap =` value
+- `x` are walls / triangles you can't get pass
+- `s` are the small ground elements you can pick up
+- `.` are just empty spaces you can run on
+- `0` is your starting point
+
+then run 
+```
+python python/MapCreator.py
+```
+
+> ⚠️ Running this will overwrite both the `big_map.map` and `little_map.map` files on the "python" folder. You only need to copy the `big_map.map` on your calculator (big = big endian)
 
 # Compile it yourself
 
 [![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/ClasspadDev/CP-3D-CarGoWroom)
+
+The codespace got everything included, with the complete SH4 gcc toolchain, Clang linter and even python for map converting leaving you only the best part : *Waiting for the compiler to be done*
 
 ## For your calculator 
 
