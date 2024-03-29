@@ -3,6 +3,7 @@
 
 https://github.com/ClasspadDev/CP-3D-CarGoWroom/assets/13310559/99807a22-c964-4338-ba07-8b30e5b67984
 
+> [!NOTE]
 > The code was originally done by [Henri](https://github.com/im-henri/) and given away to the community
 ![legacy.png](docs/legacy.png)
 New maintainer are welcome ! 
@@ -39,7 +40,8 @@ You'll need to create simple 3D models in the [Wavefront OBJ format](https://en.
 ```
 python python/ObjTexConverter.py
 ```
-> ⚠️ Running this may overwrite the pkObj and texture files
+> [!WARNING]
+> Running this may overwrite the pkObj and texture files
 
 You can take a look at "3D_models" folder to get a better understanding at the example cars
 
@@ -56,7 +58,8 @@ then run
 python python/MapCreator.py
 ```
 
-> ⚠️ Running this will overwrite both the `big_map.map` and `little_map.map` files on the "python" folder. You only need to copy the `big_map.map` on your calculator (big = big endian)
+> [!WARNING]
+> Running this will overwrite both the `big_map.map` and `little_map.map` files on the "python" folder. You only need to copy the `big_map.map` on your calculator (big = big endian)
 
 # Compile it yourself
 
